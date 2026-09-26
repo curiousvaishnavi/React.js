@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body{
+  width: 100%;
+  height: 100%;
+}
+body{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+
+.cards-container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+
+.usercard {
+  height: 15rem;
+  width: 20rem;
+  padding: 1rem;
+  margin: 1rem;
+  border: 2px solid rgb(148, 174, 16);
+  border-radius: 0.5rem;
+}
+
+
+h1{
+  font-size:3rem;
+}
