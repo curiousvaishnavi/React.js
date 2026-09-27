@@ -1,16 +1,18 @@
-# React + Vite
+📢 React Learning Update ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm continuing my journey with React.js, and I've now started working with API calls and useEffect().
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/78020378-d925-4336-9ae9-3a321ce430de
+For this project, I created a simple application that:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Fetches user data from an API
+⚛️ Uses React useEffect() to handle the API request
+📦 Stores the fetched data using useState()
+🃏 Dynamically generates user cards
+🔄 Updates the UI based on the received data
 
-## React Compiler
+This helped me understand how React interacts with external APIs and how fetched data can be rendered dynamically.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Learning → Building → Understanding → Repeating. 🚀
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
