@@ -2,8 +2,8 @@
 
 I'm continuing my journey with React.js, and I've now started working with API calls and useEffect().
 
-https://github.com/user-attachments/assets/78020378-d925-4336-9ae9-3a321ce430de
 For this project, I created a simple application that:
+https://github.com/user-attachments/assets/78020378-d925-4336-9ae9-3a321ce430de
 
 🌐 Fetches user data from an API
 ⚛️ Uses React useEffect() to handle the API request
